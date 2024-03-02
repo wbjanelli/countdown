@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
 
 .App {
   text-align: center;
@@ -10,6 +11,7 @@
 .countdown-options h2 {
   font-size: 35px;
   margin-bottom: 10px;
+  font-family: "Quicksand", sans-serif;
 }
 
 .countdown-input {
@@ -31,7 +33,7 @@
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   text-align: center;
   color: white;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Quicksand", sans-serif;
 }
 
 #countdown h1 {
